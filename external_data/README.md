@@ -1,0 +1,1 @@
+Obtain HydroWASTE and Natural Earth from the sources and versions listed in the root README. Extract them into `hydrowaste/` and `naturalearth/`, respectively. External datasets and their licences are not replaced by this repository.

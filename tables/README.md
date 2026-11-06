@@ -1,0 +1,1 @@
+`scripts/build_s17.py` writes the 20 verified measured-only/direct panel-fold comparisons and a mean/SD summary here. Other submission-workbook formatting is deliberately outside this scientific-code release.

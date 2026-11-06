@@ -1,0 +1,17 @@
+{
+  "description": "Scientific packages present during limited release validation only; not the original analysis lockfile.",
+  "python": "3.12.3",
+  "packages": {
+    "numpy": "1.26.4",
+    "pandas": "2.2.2",
+    "scipy": "1.13.1",
+    "scikit-learn": "1.5.1",
+    "xgboost": "3.2.0",
+    "lightgbm": "4.6.0",
+    "catboost": "1.2.10",
+    "matplotlib": "3.9.2",
+    "Pillow": "10.4.0",
+    "openpyxl": "3.1.5",
+    "geopandas": "1.2.0"
+  }
+}

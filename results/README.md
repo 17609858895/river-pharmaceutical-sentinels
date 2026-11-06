@@ -1,0 +1,1 @@
+Analysis commands create their own subdirectories here. These are generated outputs; no pretrained model or full research result dump is bundled. Run `scripts/collect_results.py` after the seed/fold runs to prepare the combined tables used by final figures and S17.

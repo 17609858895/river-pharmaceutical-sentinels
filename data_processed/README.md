@@ -1,0 +1,1 @@
+Generated locally by `scripts/01_parse_data.py`, `02_build_features.py` and optional `15_hydrowaste_features.py`. No individual-level source derivatives are redistributed. See the root README for obtaining the workbook and creating these files.
